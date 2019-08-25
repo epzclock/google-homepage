@@ -7,9 +7,31 @@
 
 .searchbar {
   position: absolute;
-  top: 323px;
-  left: 657px;
-  border-radius: 30px 30px 30px 30px;
-  width: 30%;
-  height: 6%;
+  width: 264px;
+  height: 40px;
+  left: 602px;
+  top: 316px;
+}
+
+#searchbar {
+  position: relative;
+  width: 250%;
+  height: 40px;
+  border-radius: 33px;
+}
+
+#googlesearch {
+  padding: 7px;
+  position: relative;
+  left: 167px;
+  text-align: center;
+  top: 18px;
+}
+
+#feelinglucky {
+  left: 314px;
+  padding: 7px;
+  position: relative;
+  text-align: center;
+  top: -25px;
 }
