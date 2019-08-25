@@ -35,3 +35,48 @@
   text-align: center;
   top: -25px;
 }
+
+#navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+#navbar ul li {
+  display: inline;
+}
+
+.footer-left {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: lightgrey;
+  width: 100%;
+}
+
+.footer-left ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-left ul li {
+  display: inline;
+}
+
+.footer-right {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+.footer-right ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-right ul li {
+  display: inline;
+}
